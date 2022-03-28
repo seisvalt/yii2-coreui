@@ -4,11 +4,11 @@
   "type": "yii2-extension",
   "keywords": ["yii", "yii2", "Coreui", "layout"],
   "require": {
-    "coreui/coreui": "~4.1.0"
+    "coreui/coreui": "^4.1.0"
   },
   "autoload": {
     "psr-4": {
-      "daxslab\\coreui\\": ""
+      "seisvalt\\coreui\\": ""
      }
   },
   "minimum-stability": "stable",

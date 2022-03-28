@@ -43,7 +43,7 @@ if (isset($this->params['breadcrumbs']) && file_exists($helpFile)) {
 
 ?>
 
-<?php $this->beginContent('@daxslab/coreui/layouts/empty.php') ?>
+<?php $this->beginContent('@seisvalt/coreui/layouts/empty.php') ?>
 
 <div class="c-sidebar c-sidebar-dark c-sidebar-fixed c-sidebar-lg-show" id="sidebar">
     <a href="<?= $homeUrl ?>" class="c-sidebar-brand d-lg-down-none">
